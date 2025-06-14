@@ -1,0 +1,5 @@
+let num;
+
+function calcularNumero () {
+
+}
